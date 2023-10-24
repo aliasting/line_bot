@@ -1,0 +1,4 @@
+.venv
+venv
+password.py
+__pycache__
